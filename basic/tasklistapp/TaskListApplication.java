@@ -1,4 +1,4 @@
-package taskone;
+package basic.tasklistapp;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
